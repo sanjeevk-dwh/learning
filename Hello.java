@@ -1,5 +1,5 @@
 // this is a test class
-class Hellow{
+class Hello{
 	public static void main(String arg[]){
 		System.out.println("Hello Java");
 	}
